@@ -1,2 +1,1 @@
-# World-Newspapers
-Unsolicited redesign of world-newspapers.com
+This is the readme file
